@@ -26,15 +26,15 @@ Followed three technology/developer-community accounts related to coding and dev
 
 ### Instagram Story
 
-![Instagram Story](screenshots/instagram_story.png)
+![Instagram Story](instagram_story.png)
 
 ### Tech Accounts Followed
 
-![Tech Accounts Followed](screenshots/tech_accounts_followed.png)
+![Tech Accounts Followed](tech_accounts_followed.png)
 
 ### Dev Journey Highlight
 
-![Dev Journey Highlight](screenshots/dev_journey_highlight.png)
+![Dev Journey Highlight](dev_journey_highlight.png)
 
 ## Tools Used
 
